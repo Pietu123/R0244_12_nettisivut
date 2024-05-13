@@ -15,7 +15,7 @@ h1 {
   font-family: "Snell Roundhand", cursive;
 }
 
-li a {
+/* li a {
   padding-right: 150px;
   padding-left: 150px;
   padding-bottom: 30px;
@@ -29,7 +29,7 @@ ul li a {
 
 ul li a:active {
   color: red;
-}
+} */
 
 /* .resiframe{
   position: absolute;
