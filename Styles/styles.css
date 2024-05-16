@@ -63,3 +63,7 @@ body {
   -webkit-transform: rotate(135deg);
 }
 
+
+iframe {
+  overflow: hidden;
+}
